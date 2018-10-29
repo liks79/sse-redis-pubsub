@@ -71,4 +71,5 @@ $ redis-cli
 
 ### 5.Check your browser.
 You can see below screen.
+
 ![screen shot](screenshot.png)
